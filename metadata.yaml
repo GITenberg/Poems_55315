@@ -1,11 +1,16 @@
 _repo: Poems_55315
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55315-h/images/cover_lg.jpg
 creator:
   author:
     agent_name: Merrill, Clara A.
     gutenberg_agent_id: '48277'
     url: http://www.gutenberg.org/2009/agents/48277
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55315#Poems
 gutenberg_issued: '2017-08-09'
 gutenberg_type: Text
 identifiers:
